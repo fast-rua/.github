@@ -10,7 +10,7 @@ benchmarks by each benchmark's own success check.
 
 ### Focus: ORA
 
-[**ORA (Open Robot-Use Agents)**](https://fastrua.ai/ora/) is an open harness for robot use. The model looks, reasons
+[**ORA (Open Robot-Use Agents)**](https://github.com/hao-ai-lab/ORA) is an open harness for robot use. The model looks, reasons
 and writes programs; a supervisor admits every motion; every run is sealed and can be replayed. One harness runs
 RoboTwin, LIBERO-Pro, RoboDojo, RoboLab and a real arm, and you can talk to the agent while it works.
 
