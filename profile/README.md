@@ -10,11 +10,17 @@ benchmarks by each benchmark's own success check.
 
 ### Focus: ORA
 
-[**ORA (Open Robot-Use Agents)**](https://github.com/hao-ai-lab/ORA) is an open harness for robot use. The model looks, reasons
-and writes programs; a supervisor admits every motion; every run is sealed and can be replayed. One harness runs
-RoboTwin, LIBERO-Pro, RoboDojo, RoboLab and a real arm, and you can talk to the agent while it works.
-
-[Project page](https://fastrua.ai/ora/) · [Docs](https://fastrua.ai/ora/docs/) · [Blog](https://fastrua.ai/ora/blog/) ·
-[Code](https://github.com/hao-ai-lab/ORA)
+<table>
+<tr>
+<td width="760">
+<a href="https://github.com/hao-ai-lab/ORA">
+<img src="https://raw.githubusercontent.com/hao-ai-lab/ORA/main/docs/assets/images/ora-teaser.webp" alt="ORA demo: an open-weight language model operating a robot through tools and programs" width="760">
+</a>
+<h3><a href="https://github.com/hao-ai-lab/ORA">ORA · Open Robot-Use Agents</a></h3>
+<p>An open harness for robot use. The model looks, reasons and writes programs; a supervisor admits every motion; every run is sealed and can be replayed. One harness runs RoboTwin, LIBERO-Pro, RoboDojo, RoboLab and a real arm, and you can talk to the agent while it works.</p>
+<p><a href="https://github.com/hao-ai-lab/ORA"><strong>View repository →</strong></a> · <a href="https://fastrua.ai/ora/">Project page</a> · <a href="https://fastrua.ai/ora/docs/">Docs</a> · <a href="https://fastrua.ai/ora/blog/">Blog</a></p>
+</td>
+</tr>
+</table>
 
 More is in the works. Stay tuned!
