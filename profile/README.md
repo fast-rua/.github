@@ -3,6 +3,13 @@
 We build robot-use agents (RUA): language models that operate robots through tools and programs, measured on public
 benchmarks by each benchmark's own success check.
 
+FastRUA is the robot-use agents project of [Hao AI Lab](https://haoailab.com/) at UC San Diego.
+
+<a href="https://haoailab.com/"><picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://haoailab.com/img/logos/ucsd-hao-ai-lab-logo-long.night.png">
+<img src="https://haoailab.com/img/logos/ucsd-hao-ai-lab-logo-long.day.png" alt="Hao AI Lab, UC San Diego" height="44">
+</picture></a>
+
 **Two things we want to build:**
 
 - **Real-time, LLM-centric robot agents** that people can talk to, interrupt and play with.
