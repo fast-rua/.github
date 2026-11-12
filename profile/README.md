@@ -18,7 +18,7 @@ benchmarks by each benchmark's own success check.
 </a>
 <h3><a href="https://github.com/hao-ai-lab/ORA">ORA · Open Robot-Use Agents</a></h3>
 <p>An open harness for robot use. The model looks, reasons and writes programs; a supervisor admits every motion; every run is sealed and can be replayed. One harness runs RoboTwin, LIBERO-Pro, RoboDojo, RoboLab and a real arm, and you can talk to the agent while it works.</p>
-<p><a href="https://github.com/hao-ai-lab/ORA"><strong>View repository →</strong></a> · <a href="https://fastrua.ai/ora/">Project page</a> · <a href="https://fastrua.ai/ora/docs/">Docs</a> · <a href="https://fastrua.ai/ora/blog/">Blog</a></p>
+<p><a href="https://github.com/hao-ai-lab/ORA"><strong>View repository →</strong></a> · <a href="https://fastrua.ai/ora/">Project page</a> · <a href="https://fastrua.ai/ora/docs/">Docs</a> · <a href="https://fastrua.ai/blog/">Blog</a></p>
 </td>
 </tr>
 </table>
